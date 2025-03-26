@@ -64,7 +64,8 @@ firebase deploy
 ```
 
 ## 📜 License
-This project is licensed under the **MIT License**. Feel free to use and modify it.
+This software is **proprietary and confidential**. Unauthorized use, copying, modification, or distribution is strictly prohibited.  
+See the `LICENSE` file for full terms.
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit pull requests or report issues.
